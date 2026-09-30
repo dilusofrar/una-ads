@@ -1,0 +1,106 @@
+descricao,categoria
+supermercado,Alimentação
+mercado do bairro,Alimentação
+atacadão compras do mês,Alimentação
+ifood pedido,Alimentação
+rappi entrega,Alimentação
+padaria,Alimentação
+restaurante,Alimentação
+lanchonete,Alimentação
+pizzaria,Alimentação
+hamburgueria,Alimentação
+açougue,Alimentação
+hortifruti,Alimentação
+sorveteria,Alimentação
+cafeteria,Alimentação
+marmita,Alimentação
+burger king,Alimentação
+mc donalds,Alimentação
+churrascaria,Alimentação
+sushi delivery,Alimentação
+feira livre,Alimentação
+uber,Transporte
+99 corrida,Transporte
+táxi,Transporte
+posto gasolina,Transporte
+posto combustível,Transporte
+etanol,Transporte
+estacionamento,Transporte
+pedágio,Transporte
+recarga cartão ônibus,Transporte
+metrô,Transporte
+passagem ônibus,Transporte
+oficina mecânica,Transporte
+troca de óleo,Transporte
+ipva,Transporte
+lavagem carro,Transporte
+aluguel,Moradia
+condomínio,Moradia
+iptu,Moradia
+reforma casa,Moradia
+material de construção,Moradia
+móveis,Moradia
+diarista,Moradia
+manutenção apartamento,Moradia
+farmácia,Saúde
+drogaria,Saúde
+consulta médica,Saúde
+dentista,Saúde
+plano de saúde,Saúde
+exame laboratório,Saúde
+academia,Saúde
+remédio,Saúde
+hospital,Saúde
+psicólogo,Saúde
+mensalidade faculdade,Educação
+curso online,Educação
+livraria,Educação
+livro,Educação
+material escolar,Educação
+udemy curso,Educação
+alura assinatura curso,Educação
+escola inglês,Educação
+apostila,Educação
+inscrição congresso,Educação
+cinema,Lazer
+bar,Lazer
+show ingresso,Lazer
+teatro,Lazer
+parque,Lazer
+viagem hotel,Lazer
+boliche,Lazer
+balada,Lazer
+jogo steam,Lazer
+passeio,Lazer
+mercado livre,Compras
+shopee,Compras
+amazon compra,Compras
+magalu,Compras
+renner,Compras
+c&a roupas,Compras
+loja de roupas,Compras
+eletrônicos,Compras
+shein,Compras
+americanas,Compras
+calçados,Compras
+presente aniversário,Compras
+netflix,Assinaturas
+spotify,Assinaturas
+disney+,Assinaturas
+globoplay,Assinaturas
+hbo max,Assinaturas
+youtube premium,Assinaturas
+prime video,Assinaturas
+deezer,Assinaturas
+icloud armazenamento,Assinaturas
+xbox game pass,Assinaturas
+energia elétrica,Contas
+cemig conta de luz,Contas
+água copasa,Contas
+internet fibra,Contas
+plano celular,Contas
+telefone,Contas
+gás de cozinha,Contas
+tv a cabo,Contas
+conta de luz,Contas
+vivo claro tim,Contas
